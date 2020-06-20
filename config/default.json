@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://saurabhd:saurabhd123@socialnetwork.fplgg.mongodb.net/socialnetwork?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
+}
