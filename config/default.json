@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://saurabhd:saurabhd123@socialnetwork.fplgg.mongodb.net/socialnetwork?retryWrites=true&w=majority",
-  "jwtSecret": "secrettoken"
+  "jwtSecret": "secrettoken",
+  "githubClientId": "692cc4f0e7b1e25e15a9",
+  "githubSecretKey":"51cd3dc828cc299864e0b3a1c2f013937035d8db"
 }
