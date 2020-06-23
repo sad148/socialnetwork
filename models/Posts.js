@@ -41,14 +41,14 @@ const PostSchema = new Schema({
         type: String
       },
       date: {
-        tpye: Date,
-        default: Date.now
+        type: Date,
+        default: Date.now()
       }
     }
   ],
   date: {
     type: Date,
-    default: Date.now
+    default: Date.now()
   }
 });
 
